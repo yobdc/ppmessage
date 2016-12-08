@@ -10,3 +10,4 @@ StringGenerator==0.1.9
 tornado==4.3
 qiniu==7.0.6
 jpush==3.2.1
+pymysql==0.7.9
